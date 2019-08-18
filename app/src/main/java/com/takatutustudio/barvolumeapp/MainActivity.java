@@ -86,7 +86,12 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     }
 
+    //Kode untuk validasi nilai Double ( Fungsi toDouble )
     Double toDouble(String str) {
-        //tulis disini
+        try {
+            return Double.valueOf(str);
+        } catch (NumberFormatException e) {
+            return null;
+        }
     }
 }

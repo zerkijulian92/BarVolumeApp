@@ -12,9 +12,9 @@ Melakukan input ke dalam obyek EditText → melakukan validasi input → melakuk
 
 Aplikasi Ini Menggunakan
 -----------
-Android Studio
-Java
-XML
+- Android Studio
+- Java
+- XML
 
 Override Methods yang digunakan
 -----------

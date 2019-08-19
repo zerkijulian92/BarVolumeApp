@@ -21,3 +21,7 @@ Override Methods yang digunakan
 - OnClickListener
 - SetOnClickListener
 - saveInstanceState 
+
+Referensi
+----------
+- dicoding: https://www.dicoding.com/academies/14/tutorials/116
